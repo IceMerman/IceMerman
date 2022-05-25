@@ -23,6 +23,7 @@ Hi, I'm Juan Esteban Sierra an electrical engineer, Python programmer, and Cloud
 - 🔭 I’m currently Working at X.M. S.A. E.S.P. (The Colombian ISO).
 - 🌱 I’m currently learning Django.
 - 💬 Ask me about anything , Would love to answer them.✌
+- ⚡ Fun fact: I like to create MILP models for real applications.
 
 **Languages and Tools:**
 
@@ -46,3 +47,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=IceMerman&show_icons=true&hide_border=true)
