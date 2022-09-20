@@ -20,10 +20,11 @@ Hi, I'm Juan Esteban Sierra an electrical engineer, Python programmer, and Cloud
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Working at X.M. S.A. E.S.P. (The Colombian ISO).
-- 🌱 I’m currently learning Django.
-- 💬 Ask me about anything , Would love to answer them.✌
-- ⚡ Fun fact: I like to create MILP models for real applications.
+ - 🔭 I’m currently Working at X.M. S.A. E.S.P. (The Colombian ISO).
+ - 🌱 I’m currently learning Django and Fast API for backend development.
+ - 💬 Ask me about anything, Would love to answer them.✌
+ - ⚡ Fun fact: I like to create MILP models for real applications.
+ - Contactme to my personal email <a href="mailto:jsjuanes51@gmail.com">jsjuanes51@gmail.com</a>
 
 **Languages and Tools:**
 
